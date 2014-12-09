@@ -1,0 +1,17 @@
+15 07-21  * * *   root   mplayer /usr/share/grandfatherclock/westminster-15.wav
+30 07-21  * * *   root   mplayer /usr/share/grandfatherclock/westminster-30.wav
+45 07-21  * * *   root   mplayer /usr/share/grandfatherclock/westminster-45.wav
+
+00 13     * * *   root   mplayer /usr/share/grandfatherclock/westminster-01.wav
+00 14     * * *   root   mplayer /usr/share/grandfatherclock/westminster-02.wav
+00 15     * * *   root   mplayer /usr/share/grandfatherclock/westminster-03.wav
+00 16     * * *   root   mplayer /usr/share/grandfatherclock/westminster-04.wav
+00 17     * * *   root   mplayer /usr/share/grandfatherclock/westminster-05.wav
+00 18     * * *   root   mplayer /usr/share/grandfatherclock/westminster-06.wav
+00 07,19  * * *   root   mplayer /usr/share/grandfatherclock/westminster-07.wav
+00 08,20  * * *   root   mplayer /usr/share/grandfatherclock/westminster-08.wav
+00 09,21  * * *   root   mplayer /usr/share/grandfatherclock/westminster-09.wav
+00 10,22  * * *   root   mplayer /usr/share/grandfatherclock/westminster-10.wav
+00 11     * * *   root   mplayer /usr/share/grandfatherclock/westminster-11.wav
+00 12     * * *   root   mplayer /usr/share/grandfatherclock/westminster-12.wav
+
